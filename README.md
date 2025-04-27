@@ -8,3 +8,12 @@ of Matplotlib.
 ![matplotlib_animation_lissajous_screenshot.png](matplotlib_animation_lissajous_screenshot.png)
 
  It creates a oscilloscope like lissajous pattern when two signals are not locked in phase.
+
+## Ballistic trajectories
+
+**animation_ballistic_v2.py**
+
+ ![animation_ballistic_screenshot.png](animation_ballistic_screenshot.png)
+
+This python code explores the animation facilities of Matplotlib. It creates animated plots
+of several ballistic trajectories. It uses list comprehension to process the multiple plots.
